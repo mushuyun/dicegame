@@ -14,10 +14,14 @@ body {
   background-color: #393E46;
 }
 
+h2{
+  color: chartreuse;
+}
+
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
+  text-shadow: 5px 0 #eaedf2;
   font-size: 8rem;
   color: #4ECCA3;
 }
